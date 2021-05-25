@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "name": "Elena",
+      "number": "+380664559971",
+      "id": 1
+    },
+    {
+      "name": "Daniil",
+      "number": "+380996009295",
+      "id": 2
+    },
+    {
+      "name": "Dima",
+      "number": "+380995668899",
+      "id": 5
+    },
+    {
+      "name": "Ksyusha",
+      "number": "+380998526452",
+      "id": 6
+    }
+  ]
+}
